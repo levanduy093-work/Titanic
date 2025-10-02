@@ -19,11 +19,6 @@ Dự án **Titanic Survival Analysis** là một dự án phân tích và trực
 
 Dữ liệu được lấy từ cuộc thi **[Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview)** trên Kaggle.
 
-### Thông tin cuộc thi:
-- **Nguồn**: Kaggle Competition
-- **Số lượng hành khách**: 1.309 người (train + test)
-- **Thời gian**: Thảm họa xảy ra ngày 15/04/1912
-
 ### Tập dữ liệu:
 - `titanic_data.csv`: 891 hành khách kèm nhãn sống sót (sử dụng để phân tích và trực quan hóa)
 
